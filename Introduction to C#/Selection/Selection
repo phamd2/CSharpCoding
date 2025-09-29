@@ -1,0 +1,18 @@
+// Question 1
+
+Console.WriteLine("Enter a number:");
+int num1 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Enter a number:");
+int num2 = int.Parse(Console.ReadLine());
+
+if (num1 == num2)
+{
+    Console.WriteLine("They are equal");
+}
+else
+{
+    Console.WriteLine("They are not equal");
+}
+
+

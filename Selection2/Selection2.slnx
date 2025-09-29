@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Functions/Functions.csproj" />
+  <Project Path="Selection2/Selection2.csproj" />
+</Solution>
